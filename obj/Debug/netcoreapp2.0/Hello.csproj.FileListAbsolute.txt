@@ -1,0 +1,10 @@
+/Users/sfone095/Desktop/donet/webapi/Hello/bin/Debug/netcoreapp2.0/Hello.deps.json
+/Users/sfone095/Desktop/donet/webapi/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.json
+/Users/sfone095/Desktop/donet/webapi/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.dev.json
+/Users/sfone095/Desktop/donet/webapi/Hello/bin/Debug/netcoreapp2.0/Hello.dll
+/Users/sfone095/Desktop/donet/webapi/Hello/bin/Debug/netcoreapp2.0/Hello.pdb
+/Users/sfone095/Desktop/donet/webapi/Hello/obj/Debug/netcoreapp2.0/Hello.csproj.CoreCompileInputs.cache
+/Users/sfone095/Desktop/donet/webapi/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfoInputs.cache
+/Users/sfone095/Desktop/donet/webapi/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfo.cs
+/Users/sfone095/Desktop/donet/webapi/Hello/obj/Debug/netcoreapp2.0/Hello.dll
+/Users/sfone095/Desktop/donet/webapi/Hello/obj/Debug/netcoreapp2.0/Hello.pdb
